@@ -186,7 +186,7 @@ Storage safety was validated using:
 forge test -vv
 ```
 
-![CLI Execution](CLI.png)
+![CLI Execution](CLI.PNG)
 
 ---
 
@@ -198,4 +198,3 @@ This implementation satisfies all Xaults challenge requirements by demonstrating
 
 
 
-[def]: CL
